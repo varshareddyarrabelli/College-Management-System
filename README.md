@@ -26,16 +26,16 @@ for colleges and universities.
 ## Screenshots
 
       Login Page
-<img src="webPictures/LoginPage.png" alt="Architecture" title="Architecture">
+<img src="webPictures/LoginPage.png" alt="LoginPage" title="LoginPage">
 
       Home Page
-<img src="webPictures/HomePage.png" alt="Architecture" title="Architecture">
+<img src="webPictures/HomePage.png" alt="HomePage" title="HomePage">
       
       Display Page
-<img src="webPictures/DisplayPage.png" alt="Architecture" title="Architecture">
+<img src="webPictures/DisplayPage.png" alt="DisplayPage" title="DisplayPage">
       
       Entry Page
-<img src="webPictures/EntryPage.png" alt="Architecture" title="Architecture">
+<img src="webPictures/EntryPage.png" alt="EntryPage" title="EntryPage">
       
       Database
-<img src="webPictures/DB.png" alt="Architecture" title="Architecture">
+<img src="webPictures/DB.png" alt="Database" title="Database">
