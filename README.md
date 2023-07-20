@@ -9,8 +9,9 @@
 ## Project Overview
 
 The College Management System is a user-friendly website that efficiently stores and manages student, teacher, and course records. 
-Using HTML, CSS, and PHP, it enables CRUD operations, grade tracking, and course enrollment details. 
-This comprehensive solution streamlines administrative tasks, enhancing academic record management for colleges and universities.
+Using HTML, CSS, and PHP, it enables CRUD operations, grade tracking, and course enrollment details. There are a set of admins who 
+can edit this for a particular college.This comprehensive solution streamlines administrative tasks, enhancing academic record management
+for colleges and universities.
 
 ## Installation
 
