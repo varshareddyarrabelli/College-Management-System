@@ -4,8 +4,8 @@
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
+- [Architechture](#architecture)
 - [Screenshots](#screenshots)
-- [Architecture](#architectute)
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ for colleges and universities.
 
          localhost/{foldername}
 
-## Architechture
+## Architecture
 
          ER Diagram
 <img src="webPictures/ER.png" alt="ER" title="ER">
