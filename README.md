@@ -5,6 +5,7 @@
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
+- [Architecture](#architectute)
 
 ## Project Overview
 
@@ -22,6 +23,14 @@ for colleges and universities.
 5. Go to your favourite browser and enter
 
          localhost/{foldername}
+
+## Architechture
+
+         ER Diagram
+<img src="webPictures/ER.png" alt="ER" title="ER">
+
+         Schema Diagram
+<img src="webPictures/Schema.png" alt="Schema" title="Schema">
 
 ## Screenshots
 
